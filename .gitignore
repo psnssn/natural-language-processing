@@ -100,7 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# Data for assignments
-data/
+
 
 .idea
